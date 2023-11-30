@@ -1,0 +1,19 @@
+{
+  "name": "repro-solid-map-gl",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.9.1",
+    "@tanstack/solid-query": "^5.10.0",
+    "mapbox-gl": "npm:empty-npm-package@1.0.0",
+    "maplibre-gl": "^3.6.2",
+    "solid-js": "^1.8.6",
+    "solid-map-gl": "^1.10.2"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "vite-plugin-solid": "^2.7.2"
+  }
+}
